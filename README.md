@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Abdul Hammad, a final year student of Software Engineering at FAST NUCES, Pakistan. As a passionate Fullstack developer, I love diving deep into web development using cutting-edge technologies. With expertise in Next.js, Express, and Jotai, I enjoy crafting efficient and elegant solutions to real-world problems. Currently honing my skills in Tailwind CSS with the Shadcn plugin for styling, I strive to create visually stunning user interfaces. Let's connect and build something amazing together! 🚀
+Hey there! 👋 I'm Abdul Hammad, a Software Engineering at Tafsol Technologies, Pakistan. As a passionate Fullstack developer, I love diving deep into web development using cutting-edge technologies. With expertise in Next.js, Nest.Js Express, and Jotai,python I enjoy crafting efficient and elegant solutions to real-world problems. Currently honing my skills in Tailwind CSS, I strive to create visually stunning user interfaces. Let's connect and build something amazing together! 🚀
 
 
 ## 🌐 Socials:
